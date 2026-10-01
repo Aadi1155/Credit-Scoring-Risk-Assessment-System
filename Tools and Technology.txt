@@ -1,0 +1,21 @@
+Tool / Technology	Purpose
+Python	Programming language used to develop the system
+Pandas	Data loading, cleaning, and manipulation
+NumPy	Numerical operations
+Scikit-learn	Preprocessing, classification, and model evaluation
+Matplotlib	Data visualization and feature-importance analysis
+Streamlit	Development of the interactive web application
+VS Code	Code development and project management
+German Credit Dataset	Dataset used for credit-risk modeling
+
+
+Machine Learning Techniques
+- Data Preprocessing
+- Categorical Encoding
+- Feature Scaling
+- Classification
+- Risk Modeling
+- Model Evaluation
+- Confusion Matrix
+- Feature Importance Analysis
+These sections match the projects we built, so you can use them directly in your reports.
