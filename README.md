@@ -1,1 +1,5 @@
-# Credit-Scoring-Risk-Assessment-System
+Credit Scoring & Risk Assessment System
+The Credit Scoring & Risk Assessment System is a Machine Learning project developed to assess the credit risk of applicants using financial and personal information. The project uses the German Credit Dataset to develop a system that classifies applicants into Low Risk and High Risk categories.
+The project includes data preprocessing, handling of numerical and categorical variables, feature encoding, feature scaling, model training, and performance evaluation. Three classification algorithms—Logistic Regression, Decision Tree Classifier, and Random Forest Classifier—are trained and compared using Accuracy, Precision, Recall, F1 Score, and Confusion Matrix.
+The project also uses Random Forest feature importance to identify the input features that contribute most to the model's predictions. An interactive Streamlit web application allows users to enter applicant information and receive a credit-risk prediction with associated probability information.
+The project demonstrates the practical application of Python, Scikit-learn, classification, risk modeling, and model evaluation in a credit-risk assessment scenario.
